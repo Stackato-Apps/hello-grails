@@ -1,0 +1,10 @@
+*Db.properties
+*Db.script
+.settings
+stacktrace.log
+.DS_Store
+/target/
+/target-eclipse/
+/out/
+/web-app/plugins
+/web-app/WEB-INF/classes

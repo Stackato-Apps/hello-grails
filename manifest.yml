@@ -1,0 +1,5 @@
+---
+applications:
+  target:
+    name: hello-grails
+    mem: 512M
