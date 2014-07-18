@@ -1,5 +1,6 @@
 ---
 applications:
-  target:
-    name: hello-grails
-    mem: 512M
+- name: hello-grails
+  mem: 512M
+  path: target/helloworld-grails-0.1.war
+    
