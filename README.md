@@ -1,7 +1,7 @@
 hello-grails
 ============
 
-A hello world Grails 2.2.4 app that you can push to Stackato.
+A hello world Grails 2.4.2 app that you can push to Stackato.
 
 # Deploying
 
