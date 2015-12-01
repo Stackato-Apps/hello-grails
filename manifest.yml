@@ -1,6 +1,6 @@
 ---
 applications:
 - name: hello-grails
-  memory: 512M
+  memory: 768M
   path: target/helloworld-grails-0.1.war
     
