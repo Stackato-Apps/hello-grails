@@ -1,6 +1,7 @@
 ---
 applications:
 - name: hello-grails
+  buildpack: https://github.com/cloudfoundry/java-buildpack
   memory: 768M
   path: target/helloworld-grails-0.1.war
-    
+  stack: cflinuxfs2  
